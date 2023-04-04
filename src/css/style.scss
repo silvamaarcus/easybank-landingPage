@@ -1,2 +1,6 @@
-@import "../scss/typography";
-@import "../scss/colors";
+@import "../scss/_typography";
+@import "../scss/_colors";
+@import "../scss/_components";
+@import "../scss/_normalize";
+
+@import "../scss/header/header.scss";

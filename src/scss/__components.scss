@@ -1,0 +1,12 @@
+.btn-primary {
+  font: 700 0.875rem/1 "Public Sans", sans-serif;
+  background: $g1;
+  color: $n1;
+  border: none;
+  border-radius: 24px;
+  padding: 12px 24px;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  background: linear-gradient(90deg, #84E2A3 0%, #7FD5E2 100%);
+}
