@@ -1,0 +1,35 @@
+.main {
+  background: $n2;
+}
+
+.main-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 40px;
+}
+
+.container-content {
+  padding-left: 20px;
+}
+.container-content h1 {
+  width: 420px;
+  margin-bottom: 25px;
+  color: $p1;
+}
+.container-content p {
+  width: 400px;
+  margin-bottom: 35px;
+  color: $p1;
+}
+
+.container-art {
+  width: 100%;
+}
+
+.container-art img {
+  max-width: 1000px;
+  position: relative;
+  z-index: 0;
+  top: -200px;  
+}
