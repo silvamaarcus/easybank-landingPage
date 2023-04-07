@@ -29,12 +29,60 @@
   color: $n3;
 }
 
-.side-c { 
+.side-c {
   justify-self: end;
   text-align: end;
+}
+
+.side-c button {
+  max-width: 144px;
+  max-height: 38px;
 }
 
 .side-c p {
   padding-top: 60px;
   color: $n4;
+}
+
+@media (max-width: 800px) {
+  .footer-container {
+    grid-template-columns: 1fr;
+  }
+  .side-a {
+    padding-left: 20px;
+    flex-direction: row;
+    gap: 60px;
+    margin-bottom: 30px;
+  }
+  .side-b {
+    padding-left: 20px;
+    margin-bottom: 30px;
+  }
+  .side-c {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-self: start;
+    padding-left: 20px;
+  }
+  .side-c p {
+    padding-top: 0;
+  }
+}
+
+@media (max-width: 400px) {
+  .side-a,
+  .side-b,
+  .side-b ul,
+  .side-c {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  .side-c {
+    justify-self: center;
+  }
+  .side-c p {
+    padding-bottom: 30px;
+  }
 }
