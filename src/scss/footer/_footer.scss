@@ -1,0 +1,40 @@
+.footer {
+  background: $p1;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 48px 0;
+}
+
+.side-a {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+}
+
+.side-a-redes ul {
+  display: flex;
+  gap: 13px;
+}
+
+.side-b ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.side-b ul a {
+  color: $n3;
+}
+
+.side-c { 
+  justify-self: end;
+  text-align: end;
+}
+
+.side-c p {
+  padding-top: 60px;
+  color: $n4;
+}
