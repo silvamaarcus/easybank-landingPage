@@ -34,3 +34,9 @@ Também ressalto que aprendi algo novo. Para dar um foco na etapa de responsivid
 
 ## Autor
 Desenvolvido por @silvamaarcus. Direitos de imagem Front End Mentor.
+
+![Desktop](https://github.com/silvamaarcus/easybank-landingPage/blob/main/Easybanbk%20-home.png?raw=true)
+
+![Mobile](https://github.com/silvamaarcus/easybank-landingPage/blob/main/Easybanbk%20-home-mobile.png?raw=true)
+
+![Mobile-menu](https://github.com/silvamaarcus/easybank-landingPage/blob/main/Easybanbk%20-home-mobile-menu.png?raw=true)
