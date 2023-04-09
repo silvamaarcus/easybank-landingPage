@@ -7,7 +7,7 @@ Para colocar em prática todo o meu conhecimento, resolvi participar dos desafio
 
 Optei por esse projeto, pois enxerguei uma grande oportunidade de fortalecer a base de conhecimento front-end. 
 
-O desafio escolhido, consiste em criar uma <i>landing page</i> que apresente um banco digital com suas características e sobre o porque o cliente deve escolher se associar. O desafio também pede para que a página se adapte a vários dispostivos distintos. 
+O desafio escolhido, consiste em criar uma <i>landing page</i> que apresente um banco digital com suas características e sobre o porquê o cliente deve escolher se associar. O desafio também pede para que a página se adapte a vários dispositivos distintos. 
 
 ## Tecnologias
 A plataforma **"Front-End Mentor",** fornece para os desenvolvedores, uma guia de estilos para chegar ao resultado estabelecido. Resolvi criar um protótipo no Figma para padronizar o espaçamento e respeitar os padrões de UI Design.
