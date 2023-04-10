@@ -3,11 +3,11 @@
 O Easybank é um site para um banco digital fictício que oferece serviços exclusivos para os correntistas se associarem a ele.
 
 ## Sobre
-Para colocar em prática todo o meu conhecimento, resolvi participar dos desafios impostos pelo site **"Front-End Mentor"**.
+Para colocar em prática o meu conhecimento, resolvi participar dos desafios impostos pelo site **"Front-End Mentor"**.
 
 Optei por esse projeto, pois enxerguei uma grande oportunidade de fortalecer a base de conhecimento front-end. 
 
-O desafio escolhido, consiste em criar uma <i>landing page</i> que apresente um banco digital com suas características e sobre o porquê o cliente deve escolher se associar. O desafio também pede para que a página se adapte a vários dispositivos distintos. 
+O desafio escolhido, consiste em criar uma <i>landing page</i> que apresente um banco digital com suas características e sobre o porque o cliente deve escolher se associar. O desafio também pede para que a página se adapte a vários dispositivos. 
 
 ## Tecnologias
 A plataforma **"Front-End Mentor",** fornece para os desenvolvedores, uma guia de estilos para chegar ao resultado estabelecido. Resolvi criar um protótipo no Figma para padronizar o espaçamento e respeitar os padrões de UI Design.
@@ -18,7 +18,7 @@ Como desenvolvedor front-end, sempre procurei formas de tornar o processo de des
 
 Não apenas para os estilos, procuro tornar essa pratica eficiente também para as funcionalidades. Faço uso de módulos no **JavaScript**, pois me permite fazer exatamente isso, dividir o código em pequenos módulos independentes que possam ser facilmente reutilizados e modificados sem afetar outras partes do código.
 
-Implementei estilos e responsividade para a página com **CSS**, fazendo uso de **GRID** e **Flexbox**. O **JavaScript** foi responsável para atrubuir um novo menu quando o site está em formato mobile, tornando o botão funcional. 
+Implementei estilos e responsividade para a página com **CSS**, fazendo uso de **GRID** e **Flexbox**. O **JavaScript** foi responsável para atribuir um novo menu quando o site está em formato mobile, tornando o botão funcional. 
 
 ## Considerações
 A execução deste projeto me deixou satisfeito, pois me faz acreditar que estou com a base bem fixada. Trabalhar com conceitos de **GRID** e **Flexbox**, viraram rotina em meu aprendizado. 
@@ -30,13 +30,15 @@ Também ressalto que aprendi algo novo. Para dar um foco na etapa de responsivid
 
 - Guia de Estilos: [StyleGuide - FIGMA](https://www.figma.com/file/AC6QaFKGHlNDCQPNmvxmSj/Easybank?node-id=6%3A587&t=jAfYGfGuX9kbsQ8a-1)
 
-- Front End Mentor: [Link](https://www.frontendmentor.io/home)
+- Front End Mentor: [Link](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
 
 ## Autor
-Desenvolvido por @silvamaarcus. Direitos de imagem Front End Mentor.
+Desenvolvido por [@silvamaarcus](https://github.com/silvamaarcus). Direitos de imagem Front End Mentor.
 
-![Desktop](https://github.com/silvamaarcus/easybank-landingPage/blob/main/Easybanbk%20-home.png?raw=true)
+##### ~> Desktop
+<img src= "https://user-images.githubusercontent.com/75142775/230909034-a33279ea-8599-4caf-8013-185e8c224c01.png" width= "600px"/>
 
-![Mobile](https://github.com/silvamaarcus/easybank-landingPage/blob/main/Easybanbk%20-home-mobile.png?raw=true)
+##### ~> Mobile
+<img src= "https://user-images.githubusercontent.com/75142775/230910260-6edbd7b8-c884-4566-9007-d437e67b63af.png" width= "300px"/>
 
-![Mobile-menu](https://github.com/silvamaarcus/easybank-landingPage/blob/main/Easybanbk%20-home-mobile-menu.png?raw=true)
+<img src= "https://user-images.githubusercontent.com/75142775/230909031-74c4007d-a6a5-4906-9d9e-668a8dcdfc13.png" width= "300px"/>
